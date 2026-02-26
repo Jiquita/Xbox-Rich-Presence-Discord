@@ -3,6 +3,13 @@
     {
       "Games": [
         {
+          "titlename": "Coral Island",
+          "titleimage": "Coral Island",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3019/f16271f72440972a1276834dfc20524a569c19911d1f2a28.png",
+          "type": 1
+        },
+        {
           "titlename": "DRAGON BALL: Sparking! ZERO",
           "titleimage": "DRAGON BALL: Sparking! ZERO",
           "titleicon": "https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg",
@@ -439,8 +446,8 @@
         {
           "titlename": "Halo: Reach",
           "titleimage": "halo_reach",
-          "titleicon": "http://pm1.narvii.com/6423/0ef2284f8759f9ccb48260f5f0acdfbb5bac7266_00.jpg",
-          "titlebackground": "https://generacionxbox.com/wp-content/uploads/2019/11/halo-reach-master-chief-collection-generacion-xbox-940x529.jpeg",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/0f70a9878da6d47c03f63c3f87966da0.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/644b522e92999426ab230d94a4bb4512.jpg",
           "type": 1
         },
         {
@@ -854,8 +861,8 @@
         {
           "titlename": "Minecraft: Xbox 360 Edition",
           "titleimage": "minecraft",
-          "titleicon": "https://pm1.narvii.com/7967/cf7f89630b5ab843207ed4ae1b85bc49769fb02er1-1280-1280v2_hq.jpg",
-          "titlebackground": "https://i.blogs.es/f4a27b/650_1000_minecraft-20360/1366_2000.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/fa0ab781087a90e49e44b3814fb701ea.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/7d93813a953503ae519b6bc3ef71e28e.png",
           "type": 1
         },
         {
@@ -1232,8 +1239,8 @@
         {
           "titlename": "Diablo III",
           "titleimage": "diablo3",
-          "titleicon": "https://www.zastavki.com/pictures/1024x1024/2013/_Diablo_III__ever_seen_a_devil_045077_31.jpg",
-          "titlebackground": "https://wallpapercave.com/wp/r8a18WG.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/9a3837e40220349d37b9825786cc92dc.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/fea33a31df7d05a276193d32621ecbe4.jpg",
           "type": 1
         },
         {
@@ -2445,6 +2452,27 @@
           "titleimage": "Jeopardy!",
           "titleicon": "https://cdn2.steamgriddb.com/grid/a3492e47e126baedfeaf61c07f7503f7.jpg",
           "titlebackground": "https://cdn2.steamgriddb.com/hero/3ff0d6192828e607934e37ddeab09c84.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Skate 2",
+          "titleimage": "skate2",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/01/07/skate-2-button-1641599740122.jpg",
+          "titlebackground": "https://m.media-amazon.com/images/I/717RQMweaAL._AC_UF894,1000_QL80_.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "skate.",
+          "titleimage": "skate1",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/01/07/skate-1-button-1641599735622.jpg",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.27751.66765638016841945.44eb6927-d62a-4346-a97d-4d1d0881b107.1d18ea8a-3fb7-4968-b240-411a3fc2fd37?q=90&w=480&h=270",
+          "type": 1
+        },
+        {
+          "titlename": "Minecraft for Nintendo Switch",
+          "titleimage": "minecraft_switch",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/9713fc04477ccf52eb7e03f626985ec2.png",
+          "titlebackground": "https://i.blogs.es/0eb073/minecraft-generacionxbox-1/1366_2000.jpeg",
           "type": 1
         }
       ]

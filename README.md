@@ -70,6 +70,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Game Title | Link | Status |
 | --- | --- | --- |
 | Modern Warfare 3 | [Image link](https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg) | ❌ |
+| Coral Island | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png) | ✔ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
 | Test Drive Unlimited 2 | [Image link](https://cdn2.steamgriddb.com/grid/9ed3fca2a9d9d1ddc50efedc993d14ae.jpg) | ✔ |
@@ -132,7 +133,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Minecraft | [Image link](https://cdn2.steamgriddb.com/grid/9713fc04477ccf52eb7e03f626985ec2.png) | ✔ |
 | DayZ | [Image link](https://media.vandal.net/m/20846/dayz-201953013153533_11.jpg) | ✔ |
 | eFootball PES 2021 Season Update | [Image link](https://image.api.playstation.com/vulcan/img/rnd/202011/0201/DCT1LwEUb8fXfS2PZfkzXV59.png) | ✔ |
-| Halo: Reach | [Image link](http://pm1.narvii.com/6423/0ef2284f8759f9ccb48260f5f0acdfbb5bac7266_00.jpg) | ✔ |
+| Halo: Reach | [Image link](https://cdn2.steamgriddb.com/grid/0f70a9878da6d47c03f63c3f87966da0.png) | ✔ |
 | FAR CRY6 | [Image link](https://cdn2.steamgriddb.com/icon/712775bacd00b61567ca8eeb605853c8/32/256x256.png) | ✔ |
 | Far Cry 4 | [Image link](https://cdn2.steamgriddb.com/grid/ecc1590d3048696e95539450bd231df1.jpg) | ✔ |
 | Far Cry 3 | [Image link](https://cdn2.steamgriddb.com/grid/3754eedc3c390ad0f0fc9a5d9f1495d8.jpg) | ✔ |
@@ -190,7 +191,7 @@ If you're not seeing any image while playing your game or you need help with any
 | INSIDE | [Image link](https://cdn2.steamgriddb.com/grid/51eac99551f4fa89da93f217a521f007.jpg) | ✔ |
 | Firewatch | [Image link](https://cdn2.steamgriddb.com/grid/f3e34b1ad8a9a285039d400e6dfc86cc.jpg) | ✔ |
 | Dying Light | [Image link](https://cdn2.steamgriddb.com/grid/fc7fc726ca255b6d2e10b76071e51972.png) | ✔ |
-| Minecraft: Xbox 360 Edition | [Image link](https://pm1.narvii.com/7967/cf7f89630b5ab843207ed4ae1b85bc49769fb02er1-1280-1280v2_hq.jpg) | ✔ |
+| Minecraft: Xbox 360 Edition | [Image link](https://cdn2.steamgriddb.com/grid/fa0ab781087a90e49e44b3814fb701ea.png) | ✔ |
 | Marvel's Guardians of the Galaxy | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202106/0215/Pw9cWnyqkix3EoCOGqrN1cgN.png) | ✔ |
 | Assassin's Creed Valhalla | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202008/1318/8XGEPtD1xoasK0FYkYNcCn1z.png) | ✔ |
 | Dante's Inferno | [Image link](https://ovallcorners.files.wordpress.com/2011/04/18-dantes-inferno.jpg) | ✔ |
@@ -243,7 +244,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Dead Space (2008) | [Image link](https://cdn2.steamgriddb.com/grid/eeb96dcdd636b95cd52a322e7c9f48fa.png) | ✔ |
 | Dead Space | [Image link](https://cdn2.steamgriddb.com/grid/f01c34449487c0bd1ea4a8625fffa09c.jpg) | ✔ |
 | South of Midnight | [Image link](https://cdn2.steamgriddb.com/grid/1e443cc2708fc151dbf3763a8157336b.jpg) | ✔ |
-| Diablo III | [Image link](https://www.zastavki.com/pictures/1024x1024/2013/_Diablo_III__ever_seen_a_devil_045077_31.jpg) | ✔ |
+| Diablo III | [Image link](https://cdn2.steamgriddb.com/grid/9a3837e40220349d37b9825786cc92dc.png) | ✔ |
 | Peggle 2 | [Image link](https://assets-prd.ignimgs.com/2022/03/18/peggle2-1647580639839.jpg) | ✔ |
 | Trials Fusion | [Image link](https://assets-prd.ignimgs.com/2022/03/13/trialsfusion-1647197679497.jpg) | ✔ |
 | A Plague Tale: Requiem | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/xIQOO3Mo5YMnIm81qkH3y5kJ.png) | ✔ |
@@ -417,6 +418,8 @@ If you're not seeing any image while playing your game or you need help with any
 | South Park: Tenorman's Revenge | [Image link](https://cdn2.steamgriddb.com/grid/a22997b93b15692ee45f7a9fb6778c8d.jpg) | ✔ |
 | Who Wants To Be A Millionaire? Special Editions | [Image link](https://cdn2.steamgriddb.com/grid/eef1c1ad3d1c737b3c2a89ecd5d22916.png) | ✔ |
 | Jeopardy! | [Image link](https://cdn2.steamgriddb.com/grid/a3492e47e126baedfeaf61c07f7503f7.jpg) | ✔ |
+| Skate 2 | [Image link](https://assets-prd.ignimgs.com/2022/01/07/skate-2-button-1641599740122.jpg) | ✔ |
+| skate. | [Image link](https://assets-prd.ignimgs.com/2022/01/07/skate-1-button-1641599735622.jpg) | ✔ |
 
 ### Symbols:
 ✔: Icon is working.
