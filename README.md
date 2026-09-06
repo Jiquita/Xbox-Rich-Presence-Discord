@@ -69,13 +69,6 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
-| Yakuza 3 Remastered | [Image link](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYLbgKFmExcNzsryDcOZhTeKk4MB2ymz9DuKX72lcZ_mjmTt_NPORbtNsACXe1FGcGW35OvrI3S_dKRiBF1AqGW0VS6DpVBWJy5WKUgEsiPykTktpEvCRYPxFRCZeD7eprFqSs1p-2KPDZDz2HLH4YBpaOUuMx4ycuUFLlP7_jdQkGIAr3TzO6GxvoNcf9/s1024/741780_front.jpg) | ❌ |
-| Borderlands: The Pre-Sequel | [Image link](https://www.gearboxsoftware.com/wp-content/uploads/2014/12/840070cd5a4f15581f6e1dcdedd5fa48c3f1abd7.png) | ❌ |
-| Superliminal | [Image link](https://www.mobygames.com/images/covers/l/670660-superliminal-playstation-4-front-cover.jpg) | ❌ |
-| Warframe | [Image link](https://www.mobygames.com/images/covers/l/700400-warframe-playstation-5-front-cover.jpg) | ❌ |
-| Modern Warfare 3 | [Image link](https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg) | ❌ |
-| Kinect Sports: Season Two | [Image link](https://image.torob.com/base/images/9v/55/9v55RkftvWPhSpul.jpg) | ❌ |
-| NEED FOR SPEED MOST WANTED | [Image link](https://www.mobygames.com/images/covers/l/297365-need-for-speed-most-wanted-ps-vita-front-cover.jpg) | ❌ |
 | Coral Island | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png) | ✔ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
@@ -149,10 +142,40 @@ If you're not seeing any image while playing your game or you need help with any
 | Assassin's Creed Revelations | [Image link](https://cdn2.steamgriddb.com/icon/1ea97de85eb634d580161c603422437f/32/256x256.png) | ✔ |
 | Assassin's Creed Rogue | [Image link](https://cdn2.steamgriddb.com/icon/77ec6f21c85b637cc42bb997841e11a6/32/256x256.png) | ✔ |
 | Assassin's Creed III | [Image link](https://cdn2.steamgriddb.com/icon_thumb/53b79303779db833f34a053df5a6c111.png) | ✔ |
-| FINAL FANTASY XIII | [Image link](https://cdn2.steamgriddb.com/icon/9c509b71f28ed054340ab236be2f83bd/32/512x512.png) | ✔ |
+| FINAL FANTASY | [Image link](https://cdn2.steamgriddb.com/grid/e418b3b2cebc3b8d4c6d77b46307f119.jpg) | ✔ |
+| FINAL FANTASY II | [Image link](https://cdn2.steamgriddb.com/grid/aeca612a1e60f846ef0687f70dc4c649.jpg) | ✔ |
+| FINAL FANTASY III | [Image link](https://cdn2.steamgriddb.com/grid/062340fdb2a78022583f2bd33878feda.jpg) | ✔ |
+| FINAL FANTASY IV | [Image link](https://cdn2.steamgriddb.com/grid/d4b7d849a4e65242c5a013e09e3d0c7a.jpg) | ✔ |
+| FINAL FANTASY V | [Image link](https://cdn2.steamgriddb.com/grid/1ee6a82268bda84cc7eaf6987b8a1aa8.jpg) | ✔ |
+| FINAL FANTASY VI | [Image link](https://cdn2.steamgriddb.com/grid/f3cb531afd268da121eb57998980d481.jpg) | ✔ |
+| FINAL FANTASY VII | [Image link](https://cdn2.steamgriddb.com/grid/4fe87b0ed8a9ef17f212cf8b2e7dabaf.png) | ✔ |
+| CRISIS CORE –FINAL FANTASY VII– REUNION | [Image link](https://cdn2.steamgriddb.com/grid/178461eca63aabaad08a24b967842f76.png) | ✔ |
+| FINAL FANTASY VII REMAKE INTERGRADE | [Image link](https://cdn2.steamgriddb.com/grid/7f5c80efe18d0ecb35816704101bc68b.png) | ✔ |
+| FINAL FANTASY VII REMAKE INTERGRADE DEMO | [Image link](https://image.api.playstation.com/vulcan/img/cfn/11307-DocfPGifza5osURPi4YT5PnCfvv5snagLGsnGAj8CYl3bVe0MNJqF488Ndhvi7qpt0HrajEwfS9TrlwBYq1-sBq7tA.png) | ✔ |
+| FINAL FANTASY VII REBIRTH | [Image link](https://cdn2.steamgriddb.com/grid/653a64a4d02b19bd88a0489912455d9e.jpg) | ✔ |
+| FINAL FANTASY VII REVELATION | [Image link](https://cdn2.steamgriddb.com/grid/b36f15b6a95add0eabe7d206aa858c21.jpg) | ✔ |
+| FINAL FANTASY VIII Remastered | [Image link](https://cdn2.steamgriddb.com/grid/104dbc678b910022d2f9cbe561471cf1.png) | ✔ |
+| FINAL FANTASY IX | [Image link](https://cdn2.steamgriddb.com/grid/ec4cec7dc0571573ef3f4112ccd54d57.png) | ✔ |
+| FINAL FANTASY X/X-2 HD Remaster | [Image link](https://cdn2.steamgriddb.com/grid/7615a65da5d7a67776ba24bc52868c09.jpg) | ✔ |
+| FINAL FANTASY XII THE ZODIAC AGE | [Image link](https://cdn2.steamgriddb.com/grid/4c5445d553c8b9c007154823dd767838.png) | ✔ |
+| FINAL FANTASY XIII | [Image link](https://cdn2.steamgriddb.com/grid/3af4e5761f1bc171394e5d8f3e37aa79.png) | ✔ |
+| FINAL FANTASY XIII-2 | [Image link](https://cdn2.steamgriddb.com/grid/c332bc901b276b504c52a91bfb1885bb.jpg) | ✔ |
+| LIGHTNING RETURNS: FINAL FANTASY XIII | [Image link](https://cdn2.steamgriddb.com/grid/0564be7276ca0e5d67f114555cb55549.png) | ✔ |
 | FINAL FANTASY XIV Online | [Image link](https://cdn2.steamgriddb.com/grid/2241f103cc10654a6081b8301c9bd987.jpg) | ✔ |
+| FINAL FANTASY XV | [Image link](https://cdn2.steamgriddb.com/grid/f0edaabb062f55db094ada59ed0059a0.png) | ✔ |
+| FINAL FANTASY XV ROYAL EDITION | [Image link](https://cdn2.steamgriddb.com/grid/dde4ea5b0383ceddb0e7a154dc68013b.jpg) | ✔ |
+| FINAL FANTASY XV POCKET EDITION HD | [Image link](https://cdn2.steamgriddb.com/grid/cae37cbd6969463c0b686ef36fb94b57.png) | ✔ |
+| FINAL FANTASY XV WINDOWS EDITION | [Image link](https://cdn2.steamgriddb.com/grid/611d80fd98a2d7c36d076d9015bfad6f.png) | ✔ |
+| FINAL FANTASY XVI | [Image link](https://cdn2.steamgriddb.com/grid/2ef1dd514a607127533d69f2559043c4.png) | ✔ |
+| FINAL FANTASY XVI DEMO | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202306/1010/dc71bed49d941561e9d8b1a53a800db122d696b6bc6e178f.png) | ✔ |
+| FINAL FANTASY RESONANCE | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/8e22140956f5980e5a33a0f6fa22ced64c3597cfdf20bc0e.png) | ✔ |
+| FINAL FANTASY RESONANCE DEMO | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/d6ab523de867166ab90184745acbbceaec711b04601d04c5.png) | ✔ |
+| STRANGER OF PARADISE FINAL FANTASY ORIGIN | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202303/1609/989cf79d37b39ba924c0f3f5968816ae6e8077afe72e3e1b.png) | ✔ |
+| STRANGER OF PARADISE FINAL FANTASY ORIGIN DEMO VERSION | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202203/0202/wsQ1bDHAFqsFUQRg482jbl0r.png) | ✔ |
 | Just Dance Free Experience | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202509/1518/b261aecaf55267fbba4c3fff32865284c7bd3ce1809219b2.png) | ✔ |
 | Just Dance | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202509/1518/b261aecaf55267fbba4c3fff32865284c7bd3ce1809219b2.png) | ✔ |
+| DJMAX RESPECT V | [Image link](https://cdn2.steamgriddb.com/grid/3abad52adffb24bc7df8a5d79d076184.png) | ✔ |
+| UNBEATABLE | [Image link](https://cdn2.steamgriddb.com/grid/40fc375557d24cdc994771fdcea4774c.png) | ✔ |
 | Castlevania: SOTN | [Image link](https://cdn2.steamgriddb.com/icon_thumb/c23497bd62a8f8a0981fdc9cbd3c30d9.png) | ✔ |
 | Sonic Generations | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/7d822b455dfe04415f0798e0d2105a13/32/256x256.png) | ✔ |
 | SONIC X SHADOW GENERATIONS | [Image link](https://cdn2.steamgriddb.com/grid/5cf3903f2f82b49fc603774ce43d6f57.png) | ✔ |
@@ -170,6 +193,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Yakuza Kiwami 2 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202511/1905/bf0f377e2aa4f4f349b29e98a0dd87ba1d95fb7fa698c9f3.png) | ✔ |
 | Yakuza Kiwami 3 & Dark Ties | [Image link](https://cdn2.steamgriddb.com/grid/fc0da20d3de95e0cdfbc0c89a06c4427.png) | ✔ |
 | Yakuza Kiwami 3 & Dark Ties Demo | [Image link](https://cdn2.steamgriddb.com/grid/fc0da20d3de95e0cdfbc0c89a06c4427.png) | ✔ |
+| Yakuza 3 Remastered | [Image link](https://cdn2.steamgriddb.com/grid/cc5099363260ba2873896b9577ffe9b1.png) | ✔ |
 | Yakuza 4 Remastered | [Image link](https://assets1.ignimgs.com/2019/01/17/yakuza-4---button-fin-1547745887034.jpg) | ✔ |
 | Yakuza 5 Remastered | [Image link](https://image.api.playstation.com/vulcan/img/cfn/11307cOudGhg-K4ksDCUANED2jRY2nW6m-uh-dzEtCtpKHO8-kht8msCZC_WfCSphXhQWcUHb-h0mSOXNxMAhfHf0-gyhd8g.png) | ✔ |
 | Yakuza 6: The Song of Life | [Image link](https://image.api.playstation.com/cdn/UP0177/CUSA09032_00/7D2jL7YYY0Rp7V9L7UCWH9LEPrWwJARcMxERbrcZxhjGuzqlXsqrkY6N0ybvJxYW.png) | ✔ |
@@ -206,11 +230,18 @@ If you're not seeing any image while playing your game or you need help with any
 | Forza Horizon 5 | [Image link](https://cdn2.steamgriddb.com/icon/981ee11c08e460dc540242ee105b5ced/32/512x512.png) | ✔ |
 | Halo Infinite | [Image link](https://cdn2.steamgriddb.com/grid/ad3613baccebc39f8d17615c108b34f2.png) | ✔ |
 | Borderlands | [Image link](https://media.vandal.net/m/71969/borderlands-edicion-juego-del-ano-201943163663_9.jpg) | ✔ |
+| Borderlands: The Pre-Sequel | [Image link](https://cdn2.steamgriddb.com/grid/46bf7091ade9f83f47d621afcae33914.jpg) | ✔ |
 | Borderlands 2 | [Image link](https://s01.riotpixels.net/data/60/5c/605c09ad-01eb-4324-a2c9-82013d1f90c9.jpg/cover.borderlands-2.1024x1024.2014-04-24.24.jpg) | ✔ |
+| Borderlands 3 | [Image link](https://cdn2.steamgriddb.com/grid/1ecce3079169f13f52ca1e8e698c2ef5.jpg) | ✔ |
+| Borderlands 4 | [Image link](https://cdn2.steamgriddb.com/grid/f1f07a94e13f1ddf9f98aecab0b7949a.jpg) | ✔ |
+| Tales from the Borderlands | [Image link](https://cdn2.steamgriddb.com/grid/ca5711c3b44536e2de534bf86d742fba.jpg) | ✔ |
+| New Tales from the Borderlands | [Image link](https://cdn2.steamgriddb.com/grid/390a7ce4f46c428ad14544fc2a4196fc.png) | ✔ |
+| Tiny Tina's Wonderlands | [Image link](https://cdn2.steamgriddb.com/grid/c37cea4a7c8928a9a72f7288e56ced9a.png) | ✔ |
 | COD: Advanced Warfare | [Image link](https://wepcgamer.com/wp-content/uploads/2021/10/Call-of-Duty-Ghosts-PC-Version-Full-Game-Setup-Free-Download.jpeg-1-1024x1024.webp) | ✔ |
 | Call of Duty: WaW | [Image link](https://assets-prd.ignimgs.com/2022/03/28/codwaw-1648511549298.jpg) | ✔ |
 | Call of Duty: World at War | [Image link](https://assets-prd.ignimgs.com/2022/03/28/codwaw-1648511549298.jpg) | ✔ |
 | Call of Duty: Black Ops 4 | [Image link](https://assets1.ignimgs.com/2018/10/10/call-of-duty-black-ops-4---button-fin-1539211957163.jpg) | ✔ |
+| Superliminal | [Image link](https://cdn2.steamgriddb.com/grid/ba4c9d41e1d28a6d43143de56c2074f7.png) | ✔ |
 | YouTube | [Image link](https://upload.anarchyisland.gg/raw/Youtube%20Icon.png?compress=false) | ✔ |
 | Max | [Image link](https://assets-prd.ignimgs.com/2022/09/22/service-hbo-max-1663819764492.jpg) | ✔ |
 | Blu-ray Player | [Image link](https://movies-b26f.kxcdn.com/wp-content/uploads/2023/03/blur-ray-disc-logo-large-bbb-5893a7b43df78caebcea02a0-1024x1024.jpg) | ✔ |
@@ -232,7 +263,8 @@ If you're not seeing any image while playing your game or you need help with any
 | Call of Duty: Black Ops | [Image link](https://assets-prd.ignimgs.com/2021/12/30/call-of-duty-black-ops-1-button-1640898530662.jpg) | ✔ |
 | Battlefield 4 | [Image link](https://image.api.playstation.com/cdn/UP0006/CUSA00110_00/VaulrBDwbGorU7Ykfjg5sNrJ5X9resKm.png) | ✔ |
 | Battlefield V | [Image link](https://cdn2.steamgriddb.com/grid/8efda667f3acb87f8d123b7776554c07.jpg) | ✔ |
-| Battlefield | [Image link](https://cdn2.steamgriddb.com/grid/d84b48a9b46983c717306735294a3e4d.png) | ✔ |
+| Battlefield 6 | [Image link](https://cdn2.steamgriddb.com/grid/d84b48a9b46983c717306735294a3e4d.png) | ✔ |
+| Battlefield REDSEC | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202510/2716/5599acd4df8baec242c78b32db34c9cedd4e9580a55da089.png) | ✔ |
 | Portal: Still Alive | [Image link](https://static.pepper.pl/threads/raw/ob93V/664436_1/re/1024x1024/qt/60/664436_1.jpg) | ✔ |
 | Portal 2 | [Image link](http://s01.riotpixels.net/data/b5/cf/b5cfe10d-7290-4bcb-a89d-e5d0e07b89f4.jpg/cover.portal-2.1024x1024.2014-04-24.1116.jpg) | ✔ |
 | Xbox 360 Dashboard | [Image link](https://i.ibb.co/T8d9YQC/IMG-20210506-154930.png) | ✔ |
@@ -286,9 +318,11 @@ If you're not seeing any image while playing your game or you need help with any
 | Gears of War: E-Day | [Image link](https://assets-prd.ignimgs.com/2026/06/07/eday-1780856237669.jpg) | ✔ |
 | Gears of War: E-Day Multiplayer Beta | [Image link](https://assets-prd.ignimgs.com/2026/06/07/eday-1780856237669.jpg) | ✔ |
 | OMORI | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202206/1601/1agbi2hbB4vbYexXSqWm94jx.png) | ✔ |
+| Warframe | [Image link](https://cdn2.steamgriddb.com/grid/b49abed4deacc76ce59f5ce9173acece.jpg) | ✔ |
 | Modern Warfare | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
 | Call of Duty 4 | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
 | Modern Warfare 2 | [Image link](https://cdn2.steamgriddb.com/grid/0cee28d807acc0fa495ac258fcb2109e.png) | ✔ |
+| Modern Warfare 3 | [Image link](https://cdn2.steamgriddb.com/grid/5e6d342c2d5e35f55898cd03ba902c25.jpg) | ✔ |
 | DanceDanceRevolution | [Image link](https://cdn2.steamgriddb.com/grid/1f53ae4e0c9d5632959175b27e50cf56.jpg) | ✔ |
 | DDR Universe | [Image link](https://cdn2.steamgriddb.com/grid/8b6624e3f25e84cd1fe8c3a5b4e13459.png) | ✔ |
 | DDR Universe 2 | [Image link](https://cdn2.steamgriddb.com/grid/ee18b02f6636099fe2476e6771236e64.png) | ✔ |
@@ -297,6 +331,8 @@ If you're not seeing any image while playing your game or you need help with any
 | Alan Wake | [Image link](https://www.fayerwayer.com/resizer/Yt2iJrPyX_DDbKee1DLMx6xd4gI=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/CK52GYCGURFHPP6FL2MURVNQNU.jpg) | ✔ |
 | Kinect Adventures! | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectadventures-sq1-1644265943035.jpg) | ✔ |
 | Kinect Sports | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectsports-sq-1644266059534.jpg) | ✔ |
+| Kinect Sports: Season Two | [Image link](https://assets-prd.ignimgs.com/2022/03/14/kinectsports-1647287133102.jpg) | ✔ |
+| NEED FOR SPEED MOST WANTED | [Image link](https://cdn2.steamgriddb.com/grid/eaa34279de6b20cc33e12bb150f0f32e.jpg) | ✔ |
 | Terraria – Xbox 360 Edition | [Image link](https://www.gamereactor.eu/media/28/terrariaparaxbox_742841b.jpg) | ✔ |
 | Call of Duty: Ghosts | [Image link](https://image.api.playstation.com/cdn/EP0002/CUSA00025_00/IUeXkREOFg6l0BCgYUe4DxCSlryK8iPT.png) | ✔ |
 | Dead Space 3 | [Image link](https://i.gadgets360cdn.com/products/large/460509-dead-space-3-ultimate-edition-playstation-3-front-cover-1000x1000-1656405233.jpeg) | ✔ |
