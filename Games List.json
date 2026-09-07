@@ -514,9 +514,135 @@
           "type": 1
         },
         {
+          "titlename": "FINAL FANTASY",
+          "titleimage": "FFI_PR",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/e418b3b2cebc3b8d4c6d77b46307f119.jpg",
+          "titlebackground": "https://www.heypoorplayer.com/wp-content/uploads/2023/05/FF-Pixel-Remaster-1.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY II",
+          "titleimage": "FFII_PR",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/aeca612a1e60f846ef0687f70dc4c649.jpg",
+          "titlebackground": "https://www.heypoorplayer.com/wp-content/uploads/2023/05/FF-Pixel-Remaster-1.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY III",
+          "titleimage": "FFIII_PR",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/062340fdb2a78022583f2bd33878feda.jpg",
+          "titlebackground": "https://www.heypoorplayer.com/wp-content/uploads/2023/05/FF-Pixel-Remaster-1.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY IV",
+          "titleimage": "FFIV_PR",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/d4b7d849a4e65242c5a013e09e3d0c7a.jpg",
+          "titlebackground": "https://www.heypoorplayer.com/wp-content/uploads/2023/05/FF-Pixel-Remaster-1.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY V",
+          "titleimage": "FFV_PR",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/1ee6a82268bda84cc7eaf6987b8a1aa8.jpg",
+          "titlebackground": "https://www.heypoorplayer.com/wp-content/uploads/2023/05/FF-Pixel-Remaster-1.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY VI",
+          "titleimage": "FFVI_PR",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f3cb531afd268da121eb57998980d481.jpg",
+          "titlebackground": "https://www.heypoorplayer.com/wp-content/uploads/2023/05/FF-Pixel-Remaster-1.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY VII",
+          "titleimage": "FFVII_OG",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/4fe87b0ed8a9ef17f212cf8b2e7dabaf.png",
+          "titlebackground": "https://static.wikia.nocookie.net/finalfantasy/images/a/ad/Wall_VII_01.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "CRISIS CORE –FINAL FANTASY VII– REUNION",
+          "titleimage": "FFVII_CC",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/178461eca63aabaad08a24b967842f76.png",
+          "titlebackground": "https://sm.ign.com/t/ign_nordic/review/c/crisis-cor/crisis-core-final-fantasy-7-reunion-review_s594.1200.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY VII REMAKE INTERGRADE",
+          "titleimage": "FFVII_RI",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/7f5c80efe18d0ecb35816704101bc68b.png",
+          "titlebackground": "https://www.cubed3.com/wp-content/uploads/2025/02/final-fantasy-vii-remake-intergrade-playstation-5-art-banner.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY VII REMAKE INTERGRADE DEMO",
+          "titleimage": "FFVII_RI_DEMO",
+          "titleicon": "https://image.api.playstation.com/vulcan/img/cfn/11307-DocfPGifza5osURPi4YT5PnCfvv5snagLGsnGAj8CYl3bVe0MNJqF488Ndhvi7qpt0HrajEwfS9TrlwBYq1-sBq7tA.png",
+          "titlebackground": "https://www.cubed3.com/wp-content/uploads/2025/02/final-fantasy-vii-remake-intergrade-playstation-5-art-banner.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY VII REBIRTH",
+          "titleimage": "FFVII_REBIRTH",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/653a64a4d02b19bd88a0489912455d9e.jpg",
+          "titlebackground": "https://techraptor.net/sites/default/files/2023-09/final-fantasy-vii-rebirth-key-art-cropped.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY VII REVELATION",
+          "titleimage": "FFVII_REVELATION",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/b36f15b6a95add0eabe7d206aa858c21.jpg",
+          "titlebackground": "https://cdn1.epicgames.com/offer/a2c630e6aab44a2d90e56d7e3237af1c/EGS_FINALFANTASYVIIREVELATION_SquareEnix_S1_2560x1440-dfbab10deabb472b8a621cf7f8efb3f9",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY VIII Remastered",
+          "titleimage": "FFVIII-R",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/104dbc678b910022d2f9cbe561471cf1.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/rJPiW7x0JXCYsNtVsgJ9VU7m.png",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY IX",
+          "titleimage": "FFIX",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ec4cec7dc0571573ef3f4112ccd54d57.png",
+          "titlebackground": "https://kotaku.com/app/uploads/2020/10/mfifupzyacj3ifknso65.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY X/X-2 HD Remaster",
+          "titleimage": "FFX_X2_R",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/7615a65da5d7a67776ba24bc52868c09.jpg",
+          "titlebackground": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2014/03/ffxhd_030614_1600.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY XII THE ZODIAC AGE",
+          "titleimage": "FFXII-TZA",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/4c5445d553c8b9c007154823dd767838.png",
+          "titlebackground": "https://miro.medium.com/v2/1*MzpWsiQauhijda5Q0SPUJQ.jpeg",
+          "type": 1
+        },
+        {
           "titlename": "FINAL FANTASY XIII",
           "titleimage": "Final_Fantasy_XIII",
-          "titleicon": "https://cdn2.steamgriddb.com/icon/9c509b71f28ed054340ab236be2f83bd/32/512x512.png",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/3af4e5761f1bc171394e5d8f3e37aa79.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/b60c5ab647a27045b462934977ccad9a.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY XIII-2",
+          "titleimage": "Final_Fantasy_XIII-2",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/c332bc901b276b504c52a91bfb1885bb.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/b60c5ab647a27045b462934977ccad9a.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "LIGHTNING RETURNS: FINAL FANTASY XIII",
+          "titleimage": "Final_Fantasy_XIII-3",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/0564be7276ca0e5d67f114555cb55549.png",
           "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/b60c5ab647a27045b462934977ccad9a.jpg",
           "type": 1
         },
@@ -525,6 +651,76 @@
           "titleimage": "Final_Fantasy_XIV_OL",
           "titleicon": "https://cdn2.steamgriddb.com/grid/2241f103cc10654a6081b8301c9bd987.jpg",
           "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202404/0916/2aa119c77785d53ce318962cc9f132907546927bdd8fa224.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY XV",
+          "titleimage": "FFXV",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f0edaabb062f55db094ada59ed0059a0.png",
+          "titlebackground": "https://cdn.wccftech.com/wp-content/uploads/2016/12/final-fantasy-xv-update-plan-detailed-tabta.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY XV ROYAL EDITION",
+          "titleimage": "FFXV_RE",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/dde4ea5b0383ceddb0e7a154dc68013b.jpg",
+          "titlebackground": "https://cdn.wccftech.com/wp-content/uploads/2018/03/Final-Fantasy-XV-Luminous-Engine-Tool.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY XV POCKET EDITION HD",
+          "titleimage": "FFXV_PE_HD",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/cae37cbd6969463c0b686ef36fb94b57.png",
+          "titlebackground": "https://images.launchbox-app.com/9ffb1548-7406-4d4b-a8a1-ac96258435a7.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY XV WINDOWS EDITION",
+          "titleimage": "FFXV_WE",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/611d80fd98a2d7c36d076d9015bfad6f.png",
+          "titlebackground": "https://wallpapercave.com/wp/wp9228640.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY XVI",
+          "titleimage": "FFXVI",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/2ef1dd514a607127533d69f2559043c4.png",
+          "titlebackground": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*lmWJK9xoLpDusL7CjobnDQ.jpeg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY XVI DEMO",
+          "titleimage": "FFXVI_DEMO",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1010/dc71bed49d941561e9d8b1a53a800db122d696b6bc6e178f.png",
+          "titlebackground": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*lmWJK9xoLpDusL7CjobnDQ.jpeg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY RESONANCE",
+          "titleimage": "FF_RESONANCE",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/8e22140956f5980e5a33a0f6fa22ced64c3597cfdf20bc0e.png",
+          "titlebackground": "https://i0.wp.com/playday.one/wp-content/uploads/2026/06/ffresonance-key-no-logo-scaled.jpeg",
+          "type": 1
+        },
+        {
+          "titlename": "FINAL FANTASY RESONANCE DEMO",
+          "titleimage": "FF_RESONANCE_DEMO",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/d6ab523de867166ab90184745acbbceaec711b04601d04c5.png",
+          "titlebackground": "https://i0.wp.com/playday.one/wp-content/uploads/2026/06/ffresonance-key-no-logo-scaled.jpeg",
+          "type": 1
+        },
+        {
+          "titlename": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+          "titleimage": "SoP_FF_O",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1609/989cf79d37b39ba924c0f3f5968816ae6e8077afe72e3e1b.png",
+          "titlebackground": "https://images.wallpapersden.com/image/download/stranger-of-paradise-final-fantasy-origin-2022-gaming_bWpraGqUmZqaraWkpJRobWllrWdma2U.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "STRANGER OF PARADISE FINAL FANTASY ORIGIN DEMO VERSION",
+          "titleimage": "SoP_FF_O_Demo",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0202/wsQ1bDHAFqsFUQRg482jbl0r.png",
+          "titlebackground": "https://images.wallpapersden.com/image/download/stranger-of-paradise-final-fantasy-origin-2022-gaming_bWpraGqUmZqaraWkpJRobWllrWdma2U.jpg",
           "type": 1
         },
         {
@@ -539,6 +735,20 @@
           "titleimage": "JDFE",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1518/b261aecaf55267fbba4c3fff32865284c7bd3ce1809219b2.png",
           "titlebackground": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70070000028929/93dc6060a9dd96800995c66d7cc2bcb01949065ee12e7b49092544eda967f938",
+          "type": 1
+        },
+        {
+          "titlename": "DJMAX RESPECT V",
+          "titleimage": "DJMAX_RESPECT_V",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/3abad52adffb24bc7df8a5d79d076184.png",
+          "titlebackground": "https://images.launchbox-app.com/c3cacd50-abdd-4197-88fd-3885459d9b4d.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "UNBEATABLE",
+          "titleimage": "UNBEATABLE",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/40fc375557d24cdc994771fdcea4774c.png",
+          "titlebackground": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2025/12/08/unbeatable-review_feature.jpg",
           "type": 1
         },
         {
@@ -663,7 +873,7 @@
         {
           "titlename": "Yakuza 3 Remastered",
           "titleimage": "Yakuza_3",
-          "titleicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYLbgKFmExcNzsryDcOZhTeKk4MB2ymz9DuKX72lcZ_mjmTt_NPORbtNsACXe1FGcGW35OvrI3S_dKRiBF1AqGW0VS6DpVBWJy5WKUgEsiPykTktpEvCRYPxFRCZeD7eprFqSs1p-2KPDZDz2HLH4YBpaOUuMx4ycuUFLlP7_jdQkGIAr3TzO6GxvoNcf9/s1024/741780_front.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/cc5099363260ba2873896b9577ffe9b1.png",
           "titlebackground": "https://images5.alphacoders.com/124/thumb-1920-1248605.jpg",
           "type": 1
         },
@@ -931,7 +1141,7 @@
         {
           "titlename": "Borderlands: The Pre-Sequel",
           "titleimage": "borderlands_presequel",
-          "titleicon": "https://www.gearboxsoftware.com/wp-content/uploads/2014/12/840070cd5a4f15581f6e1dcdedd5fa48c3f1abd7.png",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/46bf7091ade9f83f47d621afcae33914.jpg",
           "titlebackground": "https://wallpapercave.com/wp/wp4198446.jpg",
           "type": 1
         },
@@ -940,6 +1150,41 @@
           "titleimage": "borderlands2",
           "titleicon": "https://s01.riotpixels.net/data/60/5c/605c09ad-01eb-4324-a2c9-82013d1f90c9.jpg/cover.borderlands-2.1024x1024.2014-04-24.24.jpg",
           "titlebackground": "https://wallpapercave.com/wp/wp3195607.png",
+          "type": 1
+        },
+        {
+          "titlename": "Borderlands 3",
+          "titleimage": "borderlands3",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/1ecce3079169f13f52ca1e8e698c2ef5.jpg",
+          "titlebackground": "https://i.pinimg.com/736x/d9/b3/9e/d9b39e0819cabfbbe894b81b01425d56.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Borderlands 4",
+          "titleimage": "borderlands4",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f1f07a94e13f1ddf9f98aecab0b7949a.jpg",
+          "titlebackground": "https://wallpapercave.com/wp/wp15745189.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Tales from the Borderlands",
+          "titleimage": "TftB",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ca5711c3b44536e2de534bf86d742fba.jpg",
+          "titlebackground": "https://i.imgur.com/m8YJWx7.jpeg",
+          "type": 1
+        },
+        {
+          "titlename": "New Tales from the Borderlands",
+          "titleimage": "NTftB",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/390a7ce4f46c428ad14544fc2a4196fc.png",
+          "titlebackground": "https://images6.alphacoders.com/126/thumb-1920-1266504.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Tiny Tina's Wonderlands",
+          "titleimage": "Tiny_Tinas_Wonderlands",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/c37cea4a7c8928a9a72f7288e56ced9a.png",
+          "titlebackground": "https://images4.alphacoders.com/121/thumb-1920-1216745.jpg",
           "type": 1
         },
         {
@@ -973,7 +1218,7 @@
         {
           "titlename": "Superliminal",
           "titleimage": "superliminal",
-          "titleicon": "https://www.mobygames.com/images/covers/l/670660-superliminal-playstation-4-front-cover.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ba4c9d41e1d28a6d43143de56c2074f7.png",
           "titlebackground": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/superliminal-switch/screenshot-gallery/superliminal-switch-screenshot01.jpg",
           "type": 1
         },
@@ -1125,9 +1370,16 @@
           "type": 1
         },
         {
-          "titlename": "Battlefield",
-          "titleimage": "battlefield_y_redsec",
+          "titlename": "Battlefield 6",
+          "titleimage": "battlefield_6",
           "titleicon": "https://cdn2.steamgriddb.com/grid/d84b48a9b46983c717306735294a3e4d.png",
+          "titlebackground": "https://static.wikia.nocookie.net/battlefield/images/7/7f/Battlefield-6-season-4-keyart.jpg/revision/latest/scale-to-width-down/1200?cb=20260714224814",
+          "type": 1
+        },
+        {
+          "titlename": "Battlefield REDSEC",
+          "titleimage": "Battlefield_REDSEC",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2716/5599acd4df8baec242c78b32db34c9cedd4e9580a55da089.png",
           "titlebackground": "https://static.wikia.nocookie.net/battlefield/images/7/7f/Battlefield-6-season-4-keyart.jpg/revision/latest/scale-to-width-down/1200?cb=20260714224814",
           "type": 1
         },
@@ -1505,7 +1757,7 @@
         {
           "titlename": "Warframe",
           "titleimage": "warframe",
-          "titleicon": "https://www.mobygames.com/images/covers/l/700400-warframe-playstation-5-front-cover.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/b49abed4deacc76ce59f5ce9173acece.jpg",
           "titlebackground": "https://i.pinimg.com/originals/8f/45/b0/8f45b0cae6740c4f8e1581de34fa613b.jpg",
           "type": 1
         },
@@ -1533,7 +1785,7 @@
         {
           "titlename": "Modern Warfare 3",
           "titleimage": "cod_mw3",
-          "titleicon": "https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/5e6d342c2d5e35f55898cd03ba902c25.jpg",
           "titlebackground": "https://www.kawerna.pl/wp-content/uploads/2020/04/remastered-cod2.jpg",
           "type": 1
         },
@@ -1596,14 +1848,14 @@
         {
           "titlename": "Kinect Sports: Season Two",
           "titleimage": "ks_season2",
-          "titleicon": "https://image.torob.com/base/images/9v/55/9v55RkftvWPhSpul.jpg",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/03/14/kinectsports-1647287133102.jpg",
           "titlebackground": "https://www.mobygames.com/images/promo/original/1478557560-1581798436.jpg",
           "type": 1
         },
         {
           "titlename": "NEED FOR SPEED MOST WANTED",
           "titleimage": "nfs_mw2012",
-          "titleicon": "https://www.mobygames.com/images/covers/l/297365-need-for-speed-most-wanted-ps-vita-front-cover.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/eaa34279de6b20cc33e12bb150f0f32e.jpg",
           "titlebackground": "https://cdn.mcr.ea.com/3/images/c8364ab9-9444-4eb4-ba46-158dd67b7594/1587971735-0x0-0-0.jpg",
           "type": 1
         },
